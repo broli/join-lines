@@ -1,0 +1,4 @@
+Simple c app to join lines in a textfile, preserving newlines after punctuation
+
+Basicly, to convert a txt file that has been "formated" for 80 cols,
+so i can read it in zxreader
